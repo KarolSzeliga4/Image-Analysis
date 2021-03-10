@@ -1,4 +1,4 @@
-# Analiza-obrazów
+# Analiza obrazów Projekt
 
 Projekt z przedmiotu analiza obrazów, wykonany w matlabie, w grupie 3 osobowej.
 
