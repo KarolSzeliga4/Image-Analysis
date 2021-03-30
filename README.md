@@ -1,5 +1,5 @@
-# Analiza obrazów Projekt
+# Image Analysis
+Project in group of 3 people for 'Image analysis' course (AGH WFiIS 2020).
 
-Projekt z przedmiotu analiza obrazów, wykonany w matlabie, w grupie 3 osobowej.
-
-Program służy do tworzenia animacji rysowania się obrazu przy pomocy transformaty Fouriera.
+Help creating animations from the start of this film:
+https://www.youtube.com/watch?v=r6sGWTCMz2k&ab_channel=3Blue1Brown
